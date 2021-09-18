@@ -3,5 +3,5 @@ package mypackage
 import "fmt"
 
 func New() {
-	fmt.Println("mypackage.New")
+	fmt.Println("github  !!!mypackage.New")
 }
